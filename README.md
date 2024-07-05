@@ -11,5 +11,5 @@ Please see our DD-VQA dataset in folder `DQ_FF++`. The images are croped frames 
     "answer":[answer1, answer2, ...]
     }
     }
+ % The  manipulate_id is the manipulation types: 0: Deepfakes, 1:Face2face, 2: FaceShift, 3: FaceSwap,5: Original, 6: NeuralTexture.
 ```
-The  manipulate_id is the manipulation type: 0: Deepfakes, 1: Face2face, 2: FaceShift, 3: FaceSwap,5: Original, 6: NeuralTexture.
