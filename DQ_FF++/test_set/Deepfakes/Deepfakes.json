@@ -1,0 +1,1360 @@
+{
+    "0_114_102": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's nose looks very fake because the nose lookes curved. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. The person's eyebrows look a bit fake because the eyebrows look asymmetric.",
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person has mismatched bangs. The person's face doesn't match the overall scene. The person's eyebrows look very fake because the eyebrows look asymmetric. The eyebrows look blurry, unclear or flaw. The person's mouth looks very fake because the mouth is misaligned with other facial features."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look asymmetric.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric. . The eyebrows look blurry, unclear or flaw."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric.",
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric. . The eyes looks blurry and lack of details."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features.",
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_138_142": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. The out of focus on all of the facial details the person has blurry hairlines the focus of the image, some of the proportions and placement, it seems placed on where the area is blurry the person's mouth looks very fake because the teeth look unnatural coloring. The person's eyebrows look very fake because the eyebrows look asymmetric. The eyebrows do not match the face's structure. The eyebrow expression misplaces the natural position of where the eyebrows should be based on her actual expression, they are not moving in the right direction.",
+                "The image looks fake. It is an image with manipulated face regions. The person's mouth looks very fake because the mouth is misaligned with other facial features overly large mouth the mouth looks too rigid to convey expressions. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture the person's nose looks very fake because the nose lookes curved. The nose do not align properly with other facial features.",
+                "The image looks fake. It is an image with manipulated face regions. The person's mouth looks very fake because the mouth is misaligned with other facial features overly large mouth the person's nose looks very fake because the nose lookes curved. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are areas looking unnaturally brighter such as forehead and cheeks, you can see the coloring around her eyes not the makeup just it doesnt match the skin tone.",
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture.",
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric. . The eyebrows do not match the face's structure. . The eyebrow expression misplaces the natural position of where the eyebrows should be based on her actual expression, they are not moving in the right direction.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric. . The eyebrows do not match the face's structure. . The eyebrows look blurry, unclear or flaw.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because they look placed on the face, off of the face like they don't move with the face.",
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric. . The eyes appear overly large to the face. The eyes looks blurry and lack of details. . The eyes looks too rigid and lifeless to convey expresssion.",
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric. . The eyes looks blurry and lack of details."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the teeth look unnatural coloring.",
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features. Overly large mouth. The mouth looks too rigid to convey expressions.",
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features. Overly large mouth."
+            ]
+        }
+    },
+    "0_035_036": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's nose looks a bit fake because the nose is placed at the wrong place on the face. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. The person's mouth looks a bit fake because the mouth is misaligned with other facial features.",
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person has mismatched bangs. The person's mouth looks a bit fake because the mouth is misaligned with other facial features the person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because there are boundaries on the person's face. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker. Yes.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose is placed at the wrong place on the face.",
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features.",
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_078_955": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. Facial features don't match the size of the head. As if it were copy and pasted to the head. The person's nose looks a bit fake because the nose do not align properly with other facial features. The nose lacks of subtle details, such as pores, fine lines. The person's eyes look a bit fake because the eyes looks blurry and lack of details. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw.",
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face such as teeth. There are areas looking unnaturally brighter such as face. No the person's mouth looks a bit fake because the teeth look unnatural coloring."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture. There are areas looking unnaturally brighter such as nose and middle of face. .",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face such as teeth. . There are areas looking unnaturally brighter such as face. . No."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw.",
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look blurry, unclear or flaw."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes looks blurry and lack of details.",
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose do not align properly with other facial features. . The nose lacks of subtle details, such as pores, fine lines.",
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features. The chin is misaligned with other facial features.",
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the teeth look unnatural coloring."
+            ]
+        }
+    },
+    "0_024_073": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person has the lighting in the image is inconsistent, unrealistic shadows. The person's face doesn't match the overall scene.",
+                "The image looks fake. It is an image with manipulated face regions. The person's eyes look very fake because the eyes looks blurry and lack of details. The person's eyebrows look very fake because the eyebrows look asymmetric. The eyebrows look blurry, unclear or flaw. The person's mouth looks very fake because the mouth is misaligned with other facial features overly small mouth.",
+                "The image looks fake. The skin folds on the forehead look unreal due to his eyebrow the person's eyes look very fake because the eyes look unnaturally asymmetric. The eyes looks too rigid and lifeless to convey expresssion. One is more sharply defined than the other the person's mouth looks a bit fake because the mouth looks too rigid to convey expressions. The teeth look unnatural coloring. The inside of the mouth does not look right, is mostly black the person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw."
+            ]
+        }
+    },
+    "0_048_029": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's nose looks very fake because the nose lacks of subtle details, such as pores, fine lines. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. The eyes looks blurry and lack of details. The eyes looks too rigid and lifeless to convey expresssion. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are areas looking unnaturally brighter such as chin area.",
+                "The image looks fake. It is an image with manipulated face regions. The person's skin looks a bit fake because there are boundaries on the person's face such as in the cheek. There are stains/flaws on the person's face such as in the cheek."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are areas looking unnaturally brighter such as chin area.",
+                "The person's skin looks fake. The person's skin looks a bit fake because there are boundaries on the person's face such as in the cheek. . There are stains/flaws on the person's face such as in the cheek."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. . The eyes looks blurry and lack of details. . The eyes looks too rigid and lifeless to convey expresssion."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lacks of subtle details, such as pores, fine lines."
+            ]
+        }
+    },
+    "0_000_003": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker the person has mismatched bangs.",
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's mouth looks a bit fake because the mouth is misaligned with other facial features the person's eyes look a bit fake because the eyes look unnaturally asymmetric. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        }
+    },
+    "0_044_945": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's eyebrows look very fake because the eyebrows look asymmetric. There are boundaries between eyebrows. The eyebrows do not match the face's structure. The person's mouth looks very fake because overly small mouth the mouth looks too rigid to convey expressions. Overly squared chin the person's eyes look very fake because the eyes look unnaturally asymmetric. The eyes appear overly large to the face the eyes looks too rigid and lifeless to convey expresssion.",
+                "The image looks fake. It is an image with manipulated face regions. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker.",
+                "The image looks fake. It is an image with manipulated face regions. The person's skin looks a bit fake because there are boundaries on the person's face there are stains/flaws on the person's face such as on the cheek. There are areas looking unnaturally brighter."
+            ]
+        },
+        "1": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric. . There are boundaries between eyebrows. . The eyebrows do not match the face's structure."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric. . The eyes appear overly large to the face. The eyes looks too rigid and lifeless to convey expresssion."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lookes curved. . The nose do not align properly with other facial features."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because overly small mouth. The mouth looks too rigid to convey expressions. . Overly squared chin."
+            ]
+        }
+    },
+    "0_012_026": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's eyes look very fake because the eyes looks blurry and lack of details. The person's nose looks very fake because the nose do not align properly with other facial features. The nose is placed at the wrong place on the face. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw.",
+                "The image looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture.",
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes looks blurry and lack of details."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose do not align properly with other facial features. . The nose is placed at the wrong place on the face."
+            ]
+        }
+    },
+    "0_623_630": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person has mismatched bangs. The person's mouth looks very fake because the mouth is misaligned with other facial features the person's eyes look very fake because the eyes look unnaturally asymmetric.",
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker the person's eyebrows look a bit fake because the eyebrows do not match the face's structure. The person has mismatched mustache."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric.",
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows do not match the face's structure."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric.",
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lookes curved.",
+                "The person's nose looks fake. The person's nose looks very fake because the nose do not align properly with other facial features."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features.",
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_384_932": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's mouth looks a bit fake because overly small mouth the person has mismatched mustache. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look blurry, unclear or flaw."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because overly small mouth."
+            ]
+        }
+    },
+    "0_367_371": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's mouth looks very fake because the mouth is misaligned with other facial features the person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker the person's eyes look very fake because the eyes look unnaturally asymmetric.",
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's eyes look very fake because the eyes appear overly small to the face the person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture the person's mouth looks very fake because the mouth looks too rigid to convey expressions."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows do not match the face's structure."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric.",
+                "The person's eyes look fake. The person's eyes look very fake because the eyes appear overly small to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lookes curved.",
+                "The person's nose looks fake. The person's nose looks very fake because the nose is placed at the wrong place on the face."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features.",
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth looks too rigid to convey expressions."
+            ]
+        }
+    },
+    "0_386_154": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person has mismatched mustache. The person's nose looks very fake because the nose do not align properly with other facial features. The person's skin looks very fake because there are boundaries on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker.",
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's eyebrows look a bit fake because the eyebrows look asymmetric. The person's nose looks very fake because the nose do not align properly with other facial features. The person's eyes look a bit fake because the eyes appear overly large to the face."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because there are boundaries on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look blurry, unclear or flaw.",
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes appear overly small to the face.",
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes appear overly large to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose do not align properly with other facial features."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is placed at the wrong place on the face.",
+                "The person's mouth looks fake. The person's mouth looks very fake because overly large mouth."
+            ]
+        }
+    },
+    "0_380_358": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person has mismatched bangs. The person's eyes look a bit fake because the eyes appear overly small to the face the person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows do not match the face's structure."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes appear overly small to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose is placed at the wrong place on the face."
+            ]
+        }
+    },
+    "0_314_347": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. The person's eyebrows look a bit fake because the eyebrows look asymmetric. The person's mouth looks a bit fake because the mouth is misaligned with other facial features."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_741_731": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's eyebrows look a bit fake because the eyebrows look asymmetric. The person's nose looks a bit fake because the nose lookes curved. The person has blurry hairlines."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes appear overly large to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because overly large mouth."
+            ]
+        }
+    },
+    "0_732_691": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's eyes look very fake because the eyes are placed at the wrong place on the face. The person's eyebrows look very fake because the eyebrows do not match the face's structure. The person's mouth looks very fake because the teeth look misaligned with the rest of the mouth.",
+                "The image looks fake. It is an image with manipulated face regions. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are areas looking unnaturally brighter such as cheeks and side of nose. There area of looking unnaturally darker such as around his lips. The person's mouth looks very fake because overly small mouth the mouth looks too rigid to convey expressions. The mouth is placed at the wrong place on the face. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are areas looking unnaturally brighter such as cheeks and side of nose. . There area of looking unnaturally darker such as around his lips."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows do not match the face's structure.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw. . Left broken eyebrows. . Right broken eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes are placed at the wrong place on the face.",
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes looks blurry and lack of details."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose is placed at the wrong place on the face.",
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the teeth look misaligned with the rest of the mouth.",
+                "The person's mouth looks fake. The person's mouth looks very fake because overly small mouth. The mouth looks too rigid to convey expressions. . The mouth is placed at the wrong place on the face."
+            ]
+        }
+    },
+    "0_682_669": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's nose looks a bit fake because the nose lacks of subtle details, such as pores, fine lines. The person's eyebrows look a bit fake because the eyebrows do not match the face's structure. The person's mouth looks very fake because the mouth looks too rigid to convey expressions."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture. There are areas looking unnaturally brighter such as forehead. . There area of looking unnaturally darker such as chin, mouth."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows do not match the face's structure."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes looks blurry and lack of details. . The eyes looks too rigid and lifeless to convey expresssion."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lacks of subtle details, such as pores, fine lines."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth looks too rigid to convey expressions."
+            ]
+        }
+    },
+    "0_288_321": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face the person's eyebrows look a bit fake because the eyebrows do not match the face's structure."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows do not match the face's structure."
+            ]
+        }
+    },
+    "0_280_249": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are boundaries on the person's face there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker the person's eyebrows look a bit fake because there are boundaries between eyebrows. Left broken eyebrows. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are boundaries on the person's face. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because there are boundaries between eyebrows. . Left broken eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes appear overly large to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features. The mouth looks too rigid to convey expressions."
+            ]
+        }
+    },
+    "0_919_015": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. The person has blurry hairlines."
+            ]
+        }
+    },
+    "0_953_974": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. The person's nose looks very fake because the nose lacks of subtle details, such as pores, fine lines. The person's mouth looks a bit fake because overly small mouth the person has mismatched beard."
+            ]
+        },
+        "1": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lacks of subtle details, such as pores, fine lines."
+            ]
+        },
+        "2": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because overly small mouth."
+            ]
+        }
+    },
+    "0_158_379": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's skin looks a bit fake because there are boundaries on the person's face there are stains/flaws on the person's face there are areas looking unnaturally brighter the person has mismatched beard. The person's eyes look very fake because the eyes appear overly large to the face.",
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person has the lighting in the image is inconsistent, unrealistic shadows. The person's eyebrows look a bit fake because the eyebrows look asymmetric. The person's eyes look a bit fake because the eyes looks too rigid and lifeless to convey expresssion."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because there are boundaries on the person's face. There are stains/flaws on the person's face. There are areas looking unnaturally brighter.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because there are boundaries between eyebrows.",
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes appear overly large to the face.",
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes looks too rigid and lifeless to convey expresssion."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose is placed at the wrong place on the face.",
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because overly small mouth.",
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_176_190": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's eyebrows look a bit fake because there are boundaries between eyebrows. The eyebrows do not match the face's structure. The person's eyes look a bit fake because the eyes appear overly large to the face the person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker.",
+                "The image looks fake. It is an image with manipulated face regions. The person's nose looks very fake because the nose lookes curved. The nose do not align properly with other facial features. The person's eyebrows look very fake because the eyebrows look asymmetric. The eyebrows do not match the face's structure. Right overlapped eyebrows. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker.",
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's nose looks very fake because the nose lacks of subtle details, such as pores, fine lines. The person has the lighting in the image is inconsistent, unrealistic shadows. The person's eyes look a bit fake because the eyes are placed at the wrong place on the face."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because there are boundaries between eyebrows. . The eyebrows do not match the face's structure.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric. . The eyebrows do not match the face's structure. . Right overlapped eyebrows.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows do not match the face's structure."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes appear overly large to the face.",
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. . The eyes appear overly small to the face.",
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes are placed at the wrong place on the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose do not align properly with other facial features.",
+                "The person's nose looks fake. The person's nose looks very fake because the nose lookes curved. . The nose do not align properly with other facial features.",
+                "The person's nose looks fake. The person's nose looks very fake because the nose lacks of subtle details, such as pores, fine lines."
+            ]
+        }
+    },
+    "0_801_855": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's skin looks a bit fake because there are boundaries on the person's face there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because there are boundaries on the person's face. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        }
+    },
+    "0_257_420": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person has mismatched mustache. The person's eyes look a bit fake because the eyes looks too rigid and lifeless to convey expresssion. The person's eyebrows look a bit fake because right broken eyebrows."
+            ]
+        },
+        "1": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because right broken eyebrows."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes looks too rigid and lifeless to convey expresssion."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lacks of subtle details, such as pores, fine lines."
+            ]
+        }
+    },
+    "0_847_906": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's nose looks very fake because the nose lookes curved. The person's mouth looks very fake because the mouth is misaligned with other facial features the person's eyes look very fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_214_255": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture the person's mouth looks very fake because the chin is misaligned with other facial features. The person's eyebrows look very fake because left overlapped eyebrows."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because left overlapped eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes appear overly large to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose is placed at the wrong place on the face."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the chin is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_865_739": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's eyebrows look very fake because left overlapped eyebrows. The person's eyes look very fake because the eyes looks blurry and lack of details. The person's nose looks very fake because the nose is placed at the wrong place on the face."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because left overlapped eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes looks blurry and lack of details."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose is placed at the wrong place on the face."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the chin is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_880_135": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's eyes look very fake because the eyes look unnaturally asymmetric. The eyes looks blurry and lack of details. The person's mouth looks very fake because the mouth is misaligned with other facial features overly squared chin the person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because right overlapped eyebrows. . Right broken eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric. . The eyes looks blurry and lack of details."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features. Overly squared chin."
+            ]
+        }
+    },
+    "0_227_169": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like an ai-generated image although with human appearance but with unrealistic texture or lighting. The person's eyes look very fake because the eyes are placed at the wrong place on the face. The person's mouth looks very fake because the mouth is placed at the wrong place on the face. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes are placed at the wrong place on the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose do not align properly with other facial features."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is placed at the wrong place on the face."
+            ]
+        }
+    },
+    "0_352_319": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's eyebrows look a bit fake because the eyebrows look asymmetric. The person's mouth looks a bit fake because the mouth is misaligned with other facial features the person has the lighting in the image is inconsistent, unrealistic shadows."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose do not align properly with other facial features."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_842_714": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's mouth looks a bit fake because the mouth is misaligned with other facial features the mouth looks too rigid to convey expressions. The teeth look unnatural coloring. The teeth look misaligned with the rest of the mouth. The person has mismatched bangs. Mismatched mustache. The lighting in the image is inconsistent, unrealistic shadows. The person's nose looks a bit fake because the nose lookes curved.",
+                "The image looks fake. It is an image with manipulated face regions. The person's nose looks a bit fake because the nose do not align properly with other facial features. The person's skin looks very fake because there are areas looking unnaturally brighter there area of looking unnaturally darker the person has mismatched bangs. The lighting in the image is inconsistent, unrealistic shadows. The person's face doesn't match the overall scene."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker.",
+                "The person's skin looks fake. The person's skin looks very fake because there are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because there are boundaries between eyebrows. . The eyebrows look blurry, unclear or flaw.",
+                "The person's eyebrows look fake. The person's eyebrows look very fake because there are boundaries between eyebrows. . Left overlapped eyebrows. . Left broken eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric. . The eyes are placed at the wrong place on the face. . The eyes looks blurry and lack of details.",
+                "The person's eyes look fake. The person's eyes look very fake because the eyes appear overly large to the face. The eyes are placed at the wrong place on the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved.",
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose do not align properly with other facial features."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features. The mouth looks too rigid to convey expressions. . The teeth look unnatural coloring. . The teeth look misaligned with the rest of the mouth.",
+                "The person's mouth looks fake. The person's mouth looks very fake because overly large mouth. The teeth look misaligned with the rest of the mouth."
+            ]
+        }
+    },
+    "0_607_683": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person has mismatched bangs. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker the person's eyebrows look a bit fake because the eyebrows look asymmetric."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_429_404": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. The person's eyes look very fake because the eyes are placed at the wrong place on the face. The person's skin looks a bit fake because there are boundaries on the person's face the person's eyebrows look very fake because the eyebrows do not match the face's structure.",
+                "The image looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture the person has mismatched beard. The person's eyebrows look a bit fake because left overlapped eyebrows."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because there are boundaries on the person's face.",
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows do not match the face's structure.",
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because left overlapped eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes are placed at the wrong place on the face.",
+                "The person's eyes look fake. The person's eyes look very fake because the eyes looks blurry and lack of details."
+            ]
+        }
+    },
+    "0_517_521": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's eyebrows look very fake because the eyebrows look asymmetric. The person has mismatched bangs. The person's eyes look very fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look asymmetric."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes look unnaturally asymmetric."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose lookes curved."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because the mouth is misaligned with other facial features."
+            ]
+        }
+    },
+    "0_552_851": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw. The person's mouth looks very fake because overly small mouth the person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because the eyebrows look blurry, unclear or flaw."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose is placed at the wrong place on the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because overly small mouth."
+            ]
+        }
+    },
+    "0_425_485": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's mouth looks a bit fake because overly small mouth underage individuals. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture the person has mismatched bangs."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look a bit fake because there are boundaries between eyebrows. . Skepticism, doubt, disapproval, wonder, and confusion."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look a bit fake because the eyes appear overly small to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks a bit fake because the nose is placed at the wrong place on the face."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks a bit fake because overly small mouth. Underage individuals."
+            ]
+        }
+    },
+    "0_423_421": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It is an image with manipulated face regions. The person's eyes look very fake because the eyes appear overly small to the face the person's eyebrows look very fake because there are boundaries between eyebrows. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks very fake because the skin is overly smooth and lacks of details, such as skin texture."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look fake. The person's eyebrows look very fake because there are boundaries between eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look fake. The person's eyes look very fake because the eyes appear overly small to the face."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks fake. The person's nose looks very fake because the nose is placed at the wrong place on the face."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks fake. The person's mouth looks very fake because overly large mouth."
+            ]
+        }
+    },
+    "0_579_701": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks fake. It looks like a computer-generated artist styled image for animation, carton or films. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture there are stains/flaws on the person's face there are areas looking unnaturally brighter there area of looking unnaturally darker the person has mismatched bangs."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks fake. The person's skin looks a bit fake because the skin is overly smooth and lacks of details, such as skin texture. There are stains/flaws on the person's face. There are areas looking unnaturally brighter. There area of looking unnaturally darker."
+            ]
+        }
+    }
+}

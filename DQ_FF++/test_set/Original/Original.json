@@ -1,0 +1,3271 @@
+{
+    "5_044": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Image has the look and feel of a real person. The mind is not noticing anything that is off. The person has smooth illuminated skin, arched animated eyebrows, oval eyes, broad nose, full mouth white teeth aligned teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched animated eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth white teeth aligned teeth."
+            ]
+        }
+    },
+    "5_026": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth illuminated skin, arched thin eyebrows, oval deep small eyes, straight pointed nose, full mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval deep small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth pouty mouth."
+            ]
+        }
+    },
+    "5_047": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Matched beard or mustache. The person has smooth skin, arched furrowed eyebrows, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, thin furrowed eyebrows, the eyes look slightly different, making them look more realistic. Eyes, broad nose, pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched furrowed eyebrows.",
+                "The person's eyebrows look real. The person has naturally thin furrowed eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally pouty mouth."
+            ]
+        }
+    },
+    "5_003": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has wrinked skin, arched eyebrows, oval eyes, straight nose, full mouth.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has blemished skin, deep eyes, its crooked nose, white teeth open."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally wrinked skin.",
+                "The person's skin looks real. The person has naturally blemished skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes.",
+                "The person's eyes look real. The person has naturally deep eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally its crooked nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally white teeth open."
+            ]
+        }
+    },
+    "5_015": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, deep eyes, straight nose, pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally deep eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally pouty mouth."
+            ]
+        }
+    },
+    "5_073": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Matched beard or mustache. The person has illuminated blemished skin, thin sparse eyebrows, deep small eyes, pointed nose, full mouth misaligned teeth.",
+                "The image looks real. Matched beard or mustache. The person has wrinked skin, round oval eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated blemished skin.",
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thin sparse eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally deep small eyes.",
+                "The person's eyes look real. The person has naturally round oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth misaligned teeth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_035": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has blemished skin, sparse eyebrows, dull eyes eyes, normal nose nose, thin mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has wrinked skin, thin eyebrows, small eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally blemished skin.",
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally sparse eyebrows.",
+                "The person's eyebrows look real. The person has naturally thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally dull eyes eyes.",
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally normal nose nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_048": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has wrinked skin, bushy eyebrows, small eyes, pointed nose, white teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally bushy eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally white teeth."
+            ]
+        }
+    },
+    "5_000": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, straight eyebrows, oval eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_012": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth wrinked skin, straight eyebrows, small eyes, straight pointed nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched eyebrows, straight nose."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth wrinked skin.",
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight pointed nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_078": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Flesh looks correct around chin and neck. The person has smooth skin, arched eyebrows, deep small eyes, broad nose, full mouth white teeth aligned teeth.",
+                "The image looks real. Proper hair and hairstyles. The person has wrinked skin, arched thick eyebrows, round eyes, straight nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched thick eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally deep small eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth white teeth aligned teeth.",
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_036": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, broad nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_024": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has even skin, sparse eyebrows, round eyes, pointed nose, full mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has smooth illuminated skin, straight eyebrows, oval eyes, pointed nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally even skin.",
+                "The person's skin looks real. The person has naturally smooth illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally sparse eyebrows.",
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_480": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_494": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        }
+    },
+    "5_376": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, straight nose."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        }
+    },
+    "5_371": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has illuminated skin, arched eyebrows, broad nose, pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally pouty mouth."
+            ]
+        }
+    },
+    "5_970": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_974": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_919": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, straight eyebrows, oval eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_906": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has blemished skin, arched eyebrows, small eyes, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally blemished skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_288": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_314": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has illuminated skin, furrowed eyebrows, oval eyes, pointed nose, full mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has illuminated skin."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated skin.",
+                "The person's skin looks real. The person has naturally illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally furrowed eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_380": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth wrinked skin, straight eyebrows, deep eyes, pointed nose, full mouth.",
+                "The image looks real. Matched beard or mustache. The person has illuminated skin, straight eyebrows, oval eyes, pointed nose, pouty mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has wrinked skin, sparse eyebrows, small eyes, broad nose, aligned teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth wrinked skin.",
+                "The person's skin looks real. The person has naturally illuminated skin.",
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally sparse eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally deep eyes.",
+                "The person's eyes look real. The person has naturally oval eyes.",
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally pouty mouth.",
+                "The person's mouth looks real. The person has naturally aligned teeth."
+            ]
+        }
+    },
+    "5_186": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, thin eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched sparse eyebrows, round large eyes, straight pointed nose, full mouth thin mouth white teeth aligned teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thin eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched sparse eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round large eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth thin mouth white teeth aligned teeth."
+            ]
+        }
+    },
+    "5_352": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, oval eyes, pointed nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_389": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_319": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has illuminated wrinked skin, thin eyebrows, small eyes, straight nose, full mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, thick eyebrows, oval eyes, pointed nose, pouty mouth.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated wrinked skin.",
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thin eyebrows.",
+                "The person's eyebrows look real. The person has naturally thick eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally small eyes.",
+                "The person's eyes look real. The person has naturally oval eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally pouty mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_233": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Matched beard or mustache. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Matched beard or mustache. The person has illuminated skin, thick eyebrows, deep eyes, pointed nose, pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally thick eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally deep eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally pouty mouth."
+            ]
+        }
+    },
+    "5_227": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth illuminated even skin, arched straight thin eyebrows, oval deep sparking eyes, straight pointed nose, full mouth thin mouth white teeth aligned teeth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, thick bushy eyebrows, round large eyes, straight broad nose, full mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth illuminated even skin.",
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched straight thin eyebrows.",
+                "The person's eyebrows look real. The person has naturally thick bushy eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval deep sparking eyes.",
+                "The person's eyes look real. The person has naturally round large eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight pointed nose.",
+                "The person's nose looks real. The person has naturally straight broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth thin mouth white teeth aligned teeth.",
+                "The person's mouth looks real. The person has naturally full mouth pouty mouth."
+            ]
+        }
+    },
+    "5_214": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched thin eyebrows, round small eyes, straight nose, full mouth thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth thin mouth."
+            ]
+        }
+    },
+    "5_249": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched thin eyebrows, round large eyes, straight pointed nose, full mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round large eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth pouty mouth."
+            ]
+        }
+    },
+    "5_255": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_384": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched thin eyebrows, round small eyes, straight nose, full mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth pouty mouth."
+            ]
+        }
+    },
+    "5_306": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has illuminated skin, arched eyebrows, oval eyes, pointed nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_308": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_386": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        }
+    },
+    "5_280": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, straight eyebrows, round eyes, pointed nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_220": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, straight eyebrows, oval eyes, straight nose, thin mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, thick eyebrows, small eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally thick eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes.",
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_257": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has illuminated skin, straight eyebrows, oval eyes, pointed nose, thin mouth.",
+                "The image looks real. Matched beard or mustache. The person has smooth skin, arched eyebrows, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_347": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Matched beard or mustache. The person has smooth illuminated wrinked even skin, straight thin sparse eyebrows, oval small sparking eyes, straight nose, pouty mouth.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, oval eyes, straight nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth illuminated wrinked even skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight thin sparse eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval small sparking eyes.",
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally pouty mouth.",
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_388": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, straight eyebrows, deep eyes, pointed nose, white teeth.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has illuminated skin, straight eyebrows, oval eyes, pointed nose, pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally deep eyes.",
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally white teeth.",
+                "The person's mouth looks real. The person has naturally pouty mouth."
+            ]
+        }
+    },
+    "5_219": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched thin eyebrows, round large eyes, straight pointed nose, full mouth thin mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round large eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth thin mouth pouty mouth."
+            ]
+        }
+    },
+    "5_862": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, arched eyebrows, round eyes, straight nose.",
+                "The image looks real. Matched beard or mustache. The person has blemished skin, bushy eyebrows, small eyes, pointed nose, aligned teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally blemished skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally bushy eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        }
+    },
+    "5_868": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin.",
+                "The image looks real. Matched beard or mustache. The person has arched straight eyebrows, oval eyes, pointed nose."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        }
+    },
+    "5_865": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, straight eyebrows, oval eyes, straight nose, thin mouth.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, thin eyebrows, large eyes, pointed nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes.",
+                "The person's eyes look real. The person has naturally large eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_462": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has illuminated skin, straight eyebrows, oval eyes, pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally pouty mouth."
+            ]
+        }
+    },
+    "5_429": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has wrinked skin, thick eyebrows, deep eyes, broad nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally thick eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally deep eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_467": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has arched straight eyebrows, oval eyes, pointed nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_422": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth even skin, arched eyebrows, oval eyes, pointed nose, white teeth aligned teeth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth illuminated skin, arched straight eyebrows, round oval eyes, straight nose, full mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth even skin.",
+                "The person's skin looks real. The person has naturally smooth illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes.",
+                "The person's eyes look real. The person has naturally round oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally white teeth aligned teeth.",
+                "The person's mouth looks real. The person has naturally full mouth pouty mouth."
+            ]
+        }
+    },
+    "5_425": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has bushy eyebrows, sparking eyes, broad nose, misaligned teeth."
+            ]
+        },
+        "1": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally bushy eyebrows."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally sparking eyes."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally misaligned teeth."
+            ]
+        }
+    },
+    "5_421": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched thin eyebrows, round large eyes, broad nose, full mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round large eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth pouty mouth."
+            ]
+        }
+    },
+    "5_367": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_423": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_418": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, thin eyebrows, deep eyes, pointed nose, white teeth aligned teeth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth illuminated skin, arched eyebrows, they look just right for being so blue and the amount i can see eyes, pointed nose, thin mouth pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thin eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally deep eyes.",
+                "The person's eyes look real. The person has naturally they look just right for being so blue and the amount i can see eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose.",
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally white teeth aligned teeth.",
+                "The person's mouth looks real. The person has naturally thin mouth pouty mouth."
+            ]
+        }
+    },
+    "5_161": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has wrinked skin, thin eyebrows, large eyes, broad nose, white teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally large eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally white teeth."
+            ]
+        }
+    },
+    "5_158": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Matched beard or mustache. The person has blemished skin, sparse eyebrows, small eyes, pointed nose, misaligned teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally blemished skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally sparse eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally misaligned teeth."
+            ]
+        }
+    },
+    "5_552": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has wrinked skin, arched eyebrows, round eyes, broad nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally wrinked skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_445": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has thin eyebrows, deep eyes, broad nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thin eyebrows."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally deep eyes."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_452": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has illuminated skin, straight eyebrows, oval eyes, straight nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_607": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, thin eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_507": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, straight eyebrows, no eyes, pointed nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally no eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_579": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_521": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_608": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, thin eyebrows, round eyes, straight nose, white teeth.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thin eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally white teeth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_623": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has thick eyebrows, broad nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thick eyebrows."
+            ]
+        },
+        "2": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "3": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_732": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has thick eyebrows, small eyes, broad nose, pouty mouth."
+            ]
+        },
+        "1": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally thick eyebrows."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally small eyes."
+            ]
+        },
+        "3": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose."
+            ]
+        },
+        "4": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally pouty mouth."
+            ]
+        }
+    },
+    "5_650": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth even skin, arched thin eyebrows, oval small eyes, straight nose, thin mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval small eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth."
+            ]
+        }
+    },
+    "5_801": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_725": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has wrinked even skin, arched eyebrows, round eyes, straight nose, full mouth she appears to be saying something due to the appearance of lips.",
+                "The image looks real. The person exhibit natural skin textures. The person has blemished skin, arched thin not perfect looking on both sides eyebrows, oval eyes, straight broad nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally wrinked even skin.",
+                "The person's skin looks real. The person has naturally blemished skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched thin not perfect looking on both sides eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally oval eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight broad nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth she appears to be saying something due to the appearance of lips.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_630": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_855": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has illuminated even skin, straight eyebrows, round eyes, pointed nose, thin mouth aligned teeth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally illuminated even skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally pointed nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth aligned teeth."
+            ]
+        }
+    },
+    "5_660": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth even skin, arched thin furrowed eyebrows, round deep large eyes, broad nose, full mouth white teeth.",
+                "The image looks real. Proper hair and hairstyles. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth even skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thin furrowed eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round deep large eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally broad nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth white teeth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_755": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_670": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_851": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth it has lines in the natural places and the hair follicles for the beard look real. Skin, arched thick eyebrows, oval slightly asymmetrical which makes them look more real. Eyes, straight he has a nondominant nose for his face. Nose, thin mouth aligned teeth his mouth looks like he is in the middle of saying something.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth it has lines in the natural places and the hair follicles for the beard look real. Skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thick eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally oval slightly asymmetrical which makes them look more real. Eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight he has a nondominant nose for his face. Nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally thin mouth aligned teeth his mouth looks like he is in the middle of saying something.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_812": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, straight eyebrows, round eyes, straight nose, full mouth.",
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally straight eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_691": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth wrinked he looks like a standard person so it could be real potentially skin, straight matches his face nose."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth wrinked he looks like a standard person so it could be real potentially skin."
+            ]
+        },
+        "2": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight matches his face nose."
+            ]
+        }
+    },
+    "5_714": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_701": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Because hes a well known youtuber, i forget his name but he hosts a news show so it is a known real person the person has wrinked even skin, straight nose."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally wrinked even skin."
+            ]
+        },
+        "2": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        }
+    },
+    "5_842": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_821": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. Proper hair and hairstyles. The person has smooth wrinked skin, arched thin eyebrows, round large eyes, straight nose, full mouth.",
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth wrinked skin.",
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched thin eyebrows.",
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round large eyes.",
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose.",
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth.",
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_739": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person have complete face feature. Those features are in good shape, size, and positioning. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    },
+    "5_633": {
+        "0": {
+            "question": "Does the image looks real/fake?",
+            "answer": [
+                "The image looks real. The person exhibit natural skin textures. The person has smooth skin, arched eyebrows, round eyes, straight nose, full mouth."
+            ]
+        },
+        "1": {
+            "question": "Does the person's skin look real/fake?",
+            "answer": [
+                "The person's skin looks real. The person has naturally smooth skin."
+            ]
+        },
+        "2": {
+            "question": "Do the person's eyebrows look real/fake?",
+            "answer": [
+                "The person's eyebrows look real. The person has naturally arched eyebrows."
+            ]
+        },
+        "3": {
+            "question": "Do the person's eyes look real/fake?",
+            "answer": [
+                "The person's eyes look real. The person has naturally round eyes."
+            ]
+        },
+        "4": {
+            "question": "Does the person's nose look real/fake?",
+            "answer": [
+                "The person's nose looks real. The person has naturally straight nose."
+            ]
+        },
+        "5": {
+            "question": "Does the person's mouth look real/fake?",
+            "answer": [
+                "The person's mouth looks real. The person has naturally full mouth."
+            ]
+        }
+    }
+}
