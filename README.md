@@ -1,5 +1,5 @@
 # Common Sense Reasoning for Deep Fake Detection
-![overview](overview.png)
+![overview](overview.gif)
 > [**Common Sense Reasoning for Deep Fake Detection**](https://arxiv.org/abs/2402.00126),  
 > Yue Zhang, Ben Colman, Xiao Guo, Ali Shahriyari, and Gaurav Bharaj  
 > *ECCV 2024*
