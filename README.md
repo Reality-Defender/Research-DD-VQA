@@ -1,4 +1,8 @@
-# DD-VQA Dataset
+# Common Sense Reasoning for Deep Fake Detection
+
+which was accepted by ECCV 2024. 
+
+## DD-VQA Dataset
 Please see our DD-VQA dataset in folder `DQ_FF++`. The images are croped frames from the [FF++](https://github.com/ondyari/FaceForensics).
 
 ## Data Structure
