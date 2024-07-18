@@ -5,11 +5,11 @@
 > *ECCV 2024*
 
 ## DD-VQA Dataset
-Please see our DD-VQA dataset in folder `DQ_FF++`. The images are croped frames from the [FF++](https://github.com/ondyari/FaceForensics).
+Please see our DD-VQA dataset in folder `DQ_FF++`. The images are cropped frames from the [FF++](https://github.com/ondyari/FaceForensics).
 
 ## Data Structure
 1. The dataset is split based on  FF++.
-2. For each type of manipulation, we provide the corresponding question-answer paris using a json file with the following format.
+2. For each type of manipulation, we provide the corresponding question-answer paris using a JSON file with the following format.
 ```json
  { "manitupateid_videoid" {
     "question_id":{
