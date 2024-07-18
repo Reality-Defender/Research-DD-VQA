@@ -1,4 +1,4 @@
-# Common Sense Reasoning for Deep Fake Detection
+# Common Sense Reasoning for Deepfake Detection
 ![overview](overview.gif)
 > [**Common Sense Reasoning for Deep Fake Detection**](https://arxiv.org/abs/2402.00126),  
 > Yue Zhang, Ben Colman, Xiao Guo, Ali Shahriyari, and Gaurav Bharaj  
@@ -12,8 +12,8 @@ Please see our DD-VQA dataset in folder `DQ_FF++`. The images are croped frames 
 2. For each type of manipulation, we provide the corresponding question-answer paris using a json file with the following format.
 ```json
  { "manitupateid_videoid" {
-    "question_id1":{
-    "question": "Does the image/ the perons's eyes/nose/mouth/eyebrows/ look fake?",
+    "question_id":{
+    "question": "Does the image/ the person's eyes/nose/mouth/eyebrows/ look fake?",
     "answer":["answer1", "answer2", "..."]
     }
     }
